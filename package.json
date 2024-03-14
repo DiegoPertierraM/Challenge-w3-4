@@ -24,7 +24,7 @@
     "jest-ts-webcompat-resolver": "^1.0.0",
     "ts-jest": "^29.1.2",
     "typescript": "^5.4.2",
-    "vite": "^5.1.4"
+    "vite": "^5.1.6"
   },
   "prettier": {
     "singleQuote": true
